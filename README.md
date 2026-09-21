@@ -10,15 +10,6 @@ process Bayesian optimization.
 Built as a portfolio project for the Erasmus Mundus **Semiconductor Chips
 Integration and Innovation (SSI2)** master's program.
 
-## Live Demo
-
-Deploy on Streamlit Community Cloud (free):
-
-1. Fork or clone this repository.
-2. Go to https://share.streamlit.io and sign in with GitHub.
-3. Click "New app", select this repo, set main file to `app.py`.
-4. Click "Deploy".
-
 ## Features
 
 - Interactive design targets (minimum DC gain, minimum gain-bandwidth product)
